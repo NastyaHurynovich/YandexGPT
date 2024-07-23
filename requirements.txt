@@ -1,6 +1,11 @@
 streamlit
 streamlit-chat
-langchain==0.1.4
-yandexcloud==0.255.0
 python-dotenv
 twilio
+langchain==0.2.1
+langchain-community==0.2.3
+langchain-core==0.2.4
+langchain-text-splitters==0.2.1
+opensearch-py
+yandex-chain==0.0.8
+yandexcloud==0.255.0
